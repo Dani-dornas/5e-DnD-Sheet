@@ -1,0 +1,10 @@
+.block-label {
+    display: block;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.block-label input {
+    width: 35px;
+    margin-right: 8px;
+}

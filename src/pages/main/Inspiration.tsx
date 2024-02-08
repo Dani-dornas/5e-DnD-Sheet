@@ -1,0 +1,6 @@
+export const Inspiration = () => {
+    return (
+      <></>
+    );
+  };
+  
