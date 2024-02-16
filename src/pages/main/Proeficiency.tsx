@@ -1,6 +1,8 @@
 export const Proeficiency = () => {
-    return (
-      <></>
-    );
-  };
-  
+  return (
+    <label htmlFor="proficiency-bonus">
+      <input type="number" name="proficiency-bonus" id="proficiency-bonus" />{" "}
+      Inspiration
+    </label>
+  );
+};
